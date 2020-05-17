@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4d6ef7-5c6d-493e-8ea9-2ca0ea7e562f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/imgs/morris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/postMorris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/层次遍历/bfs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/层次遍历/dfs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/迭代/inOrderTravel.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/迭代/inOrderTravel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/迭代/preOrderTravel.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/迭代/preOrderTravel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/morris/Morris.md" beforeDir="false" afterPath="$PROJECT_DIR$/tree/morris/Morris.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +26,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bywDEgDzN0ABQbtP9xkJJhgD8u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -66,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589617519513</updated>
       <workItem from="1589617521683" duration="1581000" />
-      <workItem from="1589637900610" duration="1937000" />
+      <workItem from="1589637900610" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="morris 后序遍历">
       <created>1589642648362</created>
@@ -75,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589642648362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="空值入栈">
+      <created>1589716677948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589716677948</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +107,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="morris 后序遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="morris 后序遍历" />
+    <MESSAGE value="空值入栈" />
+    <option name="LAST_COMMIT_MESSAGE" value="空值入栈" />
   </component>
 </project>
