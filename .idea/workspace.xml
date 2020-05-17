@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4d6ef7-5c6d-493e-8ea9-2ca0ea7e562f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/morris/postMorrisTravel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/迭代/postOrderTravel.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/迭代/postOrderTravel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/迭代/inOrderTravel.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/迭代/inOrderTravel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/迭代/preOrderTravel.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/迭代/preOrderTravel.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +66,16 @@
       <option name="presentableId" value="Default" />
       <updated>1589617519513</updated>
       <workItem from="1589617521683" duration="1581000" />
-      <workItem from="1589637900610" duration="1172000" />
+      <workItem from="1589637900610" duration="1937000" />
     </task>
+    <task id="LOCAL-00001" summary="morris 后序遍历">
+      <created>1589642648362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589642648362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="morris 后序遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="morris 后序遍历" />
   </component>
 </project>

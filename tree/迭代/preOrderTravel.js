@@ -11,3 +11,21 @@ function preOrderTravel(root) {
     }
     return res
 }
+
+function preOrderTravels(root) {
+    let res = []
+    if(!root) return res
+    let stack = [root]
+    while(stack.length){
+       let cur = stack.pop()
+        if(cur){
+            cur.right && stack.push(cur.right)
+            cur.left && stack.push(cur.left)
+            stack.push(cur)
+            stack.push(null)
+        }else {
+            res.push(stack.pop().val)
+        }
+    }
+    return res
+}
